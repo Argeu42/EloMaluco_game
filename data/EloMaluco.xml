@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EloMaluco>
+    <EstadoAtual>
+        <row>
+            <col texture="left">brs</col>
+            <col texture="left">vms</col>
+            <col texture="left">ams</col>
+            <col texture="left">vrs</col>
+        </row>
+        <row>
+            <col texture="link">vmm2</col>
+            <col texture="link">amm2</col>
+            <col texture="link">vrm2</col>
+            <col texture="link">brm2</col>
+        </row>
+        <row>
+            <col texture="link">vmm1</col>
+            <col texture="link">amm1</col>
+            <col texture="link">vrm1</col>
+            <col texture="right">brm1</col>
+        </row>
+        <row>
+            <col texture="">vzo</col>
+            <col texture="right">vmi</col>
+            <col texture="right">ami</col>
+            <col texture="right">vri</col>
+        </row>
+    </EstadoAtual>
+    <Acoes>
+        <acao>rid</acao>
+        <acao>rsd</acao>
+    </Acoes>
+</EloMaluco>
